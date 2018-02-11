@@ -102,7 +102,7 @@ body {
 /* ============================ HEADER ============================ */
 
 header {
-    background: url(../images/earth-bg.jpg) no-repeat center #b0bdff;
+    background: url(../images/earth-bg-small.jpg) no-repeat center #b0bdff;
     background-size: 110%;
     height: 580px;
 }
